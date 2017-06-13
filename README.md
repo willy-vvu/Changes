@@ -32,10 +32,10 @@ Scroll or Right-click-drag to zoom.
 
 Assignment for: 4.032 Information Design (Final Project)
 
-Learning Focus: Text editor plugins, Performant JavaScript, Making large datasets interactive, Loading experiences
+Learning Focus: Data Collection, Interactive Graphics, Interaction Design, Performant JavaScript
 
 Media: Interactive Visualization, Website
 
-Software: JavaScript, p5.js
+Software: p5.js, JavaScript
 
 Date: May 2017

@@ -1,6 +1,6 @@
 # Changes
 
-[Changes1.png]
+![](Changes1.png)
 
 I've always been curious as to how I write code.
 
@@ -12,21 +12,21 @@ Next, I began building a visualization. I wanted to expose the data at all scale
 
 Scroll or Right-click-drag to zoom.
 
-[Changes2.gif]
+![](Changes2.gif)
 
-[Changes3.png]
+![](Changes3.png)
 
-[Changes4.png]
+![](Changes4.png)
 
-[Changes5.png]
+![](Changes5.png)
 
-[Changes6.png]
+![](Changes6.png)
 
-[Changes7.png]
+![](Changes7.png)
 
-[Changes8.png]
+![](Changes8.png)
 
-[Changes9.png]
+![](Changes9.png)
 
 ---
 

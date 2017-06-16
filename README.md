@@ -1,7 +1,5 @@
 # Changes
 
-![](Changes1.png)
-
 I've always been curious as to how I write code.
 
 As I wrote code for [another final project](https://github.com/willy-vvu/EmojiGame), I used a homemade keylogger to track every character I added and removed from the file. From the day the project was assigned to the day it was due, I collected almost 100 megabytes of raw data.
@@ -11,6 +9,8 @@ Next, I began building a visualization. I wanted to expose the data at all scale
 [View in Browser](https://willy-vvu.github.io/Changes/)
 
 Scroll or Right-click-drag to zoom.
+
+![](Changes1.png)
 
 ![](Changes2.gif)
 

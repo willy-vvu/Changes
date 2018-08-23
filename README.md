@@ -10,7 +10,7 @@ Scroll, Pinch, or Right-click-drag to zoom.
 
 ![](Changes1.png)
 
-![](Changes2.gif)
+![](large/Changes2.gif)
 
 Zoom in far enough and you'll be able to read every letter of the source code, after every keypress. The scale on the bottom of the screen transitions seamlessly from days, to hours, to minutes, all the way to the millisecond. I sought to expose the data at all scales, revealing everything from sleep/wake cycles to the rhythm of keystrokes. You can even see the small hole in the data when my keylogger got overwhelmed and crashed between Monday and Tuesday. Perhaps a non-interactive visualization could offer similar insights, but for me, the fun was in the fluidity of navigating and exploring the dataset in real time.
 
